@@ -7,7 +7,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.linkedin.com/in/%c3%a1gata-petramali-martinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/in/%c3%a1gata-petramali-martinez/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.linkedin.com/in/agata-petramali-martinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.linkedin.com/in/%c3%a1gata-petramali-martinez/" height="30" width="40" /></a>
+</p>
+<h2 align="center">🌟 Featured Projects</h2>
+
+<p align="left">
+
+🔹 <a href="https://github.com/AgataPVM/torcida-plus" target="_blank"><b>Torcida+</b></a>  
+A web platform for football fans to create and manage events, confirm attendance, and connect with other supporters.  
+🚀 <a href="https://torcida-mais-12c8315fdc39.herokuapp.com/" target="_blank">Live Demo on Heroku</a>  
+
+<br/>
+
+🔹 <a href="https://github.com/AgataPVM/my_travel_planner" target="_blank"><b>My Travel Planner</b></a>  
+A web app to organize travel itineraries with activities, accommodations, and transport in a responsive interface.  
+🚀 <a href="https://ai-travel-planner-7b74496bf29c.herokuapp.com/users/sign_in" target="_blank">Live Demo on Heroku</a>  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
