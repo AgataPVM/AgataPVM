@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ágata Petramali Vasquez Martinez</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 💬 Ask me about **Ruby, Ruby on Rails**
 
